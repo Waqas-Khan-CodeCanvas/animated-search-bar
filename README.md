@@ -1,5 +1,5 @@
 # 🚀 Animated Search Bar 🔍✨
-<br> [![Netlify Status](https://api.netlify.com/api/v1/badges/d5603255-477b-4dbd-baa0-3870d4770d6b/deploy-status)](https://app.netlify.com/sites/animated-search-bar-js/deploys)
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/d5603255-477b-4dbd-baa0-3870d4770d6b/deploy-status)](https://app.netlify.com/sites/animated-search-bar-js/deploys)<br>
 
 A sleek and modern **animated search bar** built with **HTML, CSS, and JavaScript**. This search bar smoothly expands when clicked and collapses elegantly when closed, providing a **seamless user experience**. 
 
@@ -12,7 +12,7 @@ A sleek and modern **animated search bar** built with **HTML, CSS, and JavaScrip
 
 ## 🖥️ Demo
 
-🔗 **Live Preview:**[live](https://animated-search-bar-js.netlify.app/)
+🔗 **Live Preview:** [ live ](https://animated-search-bar-js.netlify.app/)
 
 ## 🛠️ Tech Stack
 
@@ -51,5 +51,5 @@ If you like this project, don’t forget to **give it a star ⭐** and follow me
 
 ---
 
-**#JavaScript #WebDevelopment #CSSAnimations #UIUX #OpenSource #FrontEnd**
+
 
