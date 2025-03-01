@@ -27,7 +27,7 @@ A sleek and modern **animated search bar** built with **HTML, CSS, and JavaScrip
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/animated-search-bar.git  
+   https://github.com/Waqas-Khan-CodeCanvas/animated-search-bar.git  
    ```
 2. Open `index.html` in your browser.
 3. Customize it as per your needs!
